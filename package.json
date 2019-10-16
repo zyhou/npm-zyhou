@@ -1,0 +1,17 @@
+{
+  "name": "zyhou",
+  "version": "1.0.0",
+  "description": "Me",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyhou/npm-zyhou.git"
+  },
+  "keywords": [],
+  "author": "Maxime Richard (zyhou)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zyhou/npm-zyhou/issues"
+  },
+  "homepage": "https://github.com/zyhou/npm-zyhou#readme"
+}
